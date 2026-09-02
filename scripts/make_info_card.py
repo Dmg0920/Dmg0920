@@ -15,10 +15,10 @@ UNDERLINE_CHAR = "-"
 
 # Edit these to taste — this is the "story numbers can't tell" part.
 CONTENT = [
-    ("Now", "Building things that click"),
-    ("Prev", "—"),
-    ("Stack", "Python · TypeScript · Go"),
-    ("Highlights", "Open source · Side projects · Automation"),
+    ("Now", "準備研究所考試"),
+    ("Prev", "Rent_Prediction · Stucal · CapJOBs"),
+    ("Stack", "Python · Java · JavaScript"),
+    ("Highlights", "租屋價格預測模型 · NTPU 課程作業 open source · 校園工具網站"),
 ]
 
 KEY_COLOR = "#39d353"     # neon green, matches heatmap top end
